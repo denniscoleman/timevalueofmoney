@@ -1,0 +1,24 @@
+fieldset {
+	width : 400px;
+	vertical-align : middle;
+}
+legend {
+	font-size : 20px;
+}
+label.field {
+	text-align : left;
+	width : 200px;
+	float : left;
+	font-weight : bold;
+}
+input.textbox-300 {
+	width : 75px;
+	float : left;
+}
+input.textbox-60 {
+	width : 60px;
+	float : left;
+}
+fieldset p {
+	clear : both;
+}
